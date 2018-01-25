@@ -1,2 +1,0 @@
-# Wuma
-halo
