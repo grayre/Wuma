@@ -10,7 +10,7 @@
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
 网盘下载
-[Yandex下载](https://yadi.sk/d/YT_DYcLH3Rm29X) 
+[Yandex下载](https://y/d/YT_DYcLH3Rm29X) 
 [EverNote](https://www.evernote.com/l/AcqDarmjegZPpLyrZ_AyWBo9MGDk5hOlzi8) 
 [Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-hjudqw-cxxrnxji) 
 
