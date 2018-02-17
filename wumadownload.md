@@ -1,4 +1,4 @@
-## 无码vpn(Wuma)最新版本下载 *（微信QQ请右上角用其他浏览器打开下载）*
+## 无码中文版vpn(Wuma)最新版本下载 *（微信QQ请右上角用其他浏览器打开下载）*
 **🔴 [无码最新版本下载地址请点这里](http://t.cn/R8HqY0P)🔴**
 
 最新版本是3.0.1
@@ -14,7 +14,7 @@
 [EverNote](https://www.evernote.com/l/AcqDarmjegZPpLyrZ_AyWBo9MGDk5hOlzi8) 
 [Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-hjudqw-cxxrnxji) 
 
+**由于中国大陆的政策因素，无码将逐渐关闭中国大陆下载渠道，望众知悉**
 
-请大家收藏本页面，方便日后下载新版。
 
 
