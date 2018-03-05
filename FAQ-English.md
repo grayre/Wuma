@@ -1,8 +1,11 @@
-# Wuma VPN purposes: free,fair,stable vpn everyone can be use
+# The purpose of Wuma VPN : Free, Fair, Stable and it can be used for everyone
 
-Q1.Why do some regions ban video (youtube)? '>> Video and download are big traffic-exclusive behaviors that can cause users with same line to not be able to access the Internet stably. However, considering the needs of most people, the second group dedicated to video, CDN accelerated to see the video quickly, remember to set the smooth 480 P. Long-term too high will be banned equipment.
 
-Q2.Why will break the network every half hour? 'Server process is limited, prolonged cable will increase the load caused service downtime (this is one of the reasons you use other vpn instability), consider the payment of users to remove later
+Q1. Why some region can not visit Youtube or other video websites? 
+Playing video and downloading resources will produce a lot of traffic， it will slow down the network speed of other users at the same region, it is not fair to others. If you really need it, don't worry. We also provide some Video dedicated VPN region (You will find them at the second VPN region group). Thisregions based on CDN Technologies and they are good to play video. You'd better set the video to 480P while playing, or we will disable your device since you consume high bandwith resources for long time.
+
+Q2. Why VPN service will automatically disconnect every 30 minutes?
+ The performance of the VPN server is limited， the number of connections is also limited. Long time and a large number of connections will increase the pressure of the VPN server and may cause the server to crash ( It is also a reason for the instability of other VPN products ). So we design Wuma VPN to disconnect automatically every 30 minutes that release connection for other users. If you need it at the time, you can turn it on manually again in Wuma.
 
 Q3:Is Wuma VPN free and safe?
 it's 100% free(no money or credit card needed) unlimited data and time, but P2P orBittorrent is not allowed. Also, Wuma VPN canprotect your Wifi hotspot security and privacy. It will never steal any users information
