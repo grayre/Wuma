@@ -5,12 +5,12 @@
 
 [安卓版(要求5.0以上)](https://www.evernote.com/shard/s465/sh/aeabcf3c-afee-487d-86a9-e768e56c95c4/07dfd930037e7f3769bf09c4e9ca1f4c)
 
-[备用地址](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/024/997/005/original/e76a271cdbabb4dd08c62589bf3d7530/Wuma-git-3.1.6.apk) 
+[备用地址](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/013/694/original/0603d1c7d89700dd57803b253f74aa6e/Wuma-git-3.1.6-sign.apk) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
-网盘下载
-[Yandex下载](https://yadi.sk/d/rs1npX063TpCTB) 
+网盘下载TpCTB
+[Yandex下载](https://yadi.sk/d/eOWWp0R43TpnZ9) 
 [EverNote](https://www.evernote.com/shard/s465/sh/aeabcf3c-afee-487d-86a9-e768e56c95c4/07dfd930037e7f3769bf09c4e9ca1f4c) 
 [Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-hjudqw-cxxrnxji) 
 
