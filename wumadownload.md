@@ -1,17 +1,17 @@
 ## 无码中文版vpn(Wuma)最新版本下载 【下载时务必关闭vpn】
-**🔴 [无码最新版本下载地址请点这里](http://t.cn/RmoZNJn)🔴**
+**🔴 [无码最新版本下载地址请点这里](http://t.cn/RmCLeDz)🔴**
 
 最新版本是3.1.9
 
-[安卓版(要求5.0以上)](http://176.122.135.4/new/Wuma-git-3.1.9.apk)
+[安卓版(要求5.0以上)](http://176.122.135.4/new/Wuma-git-3.2.0.apk)
 
-[备用地址](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/434/806/original/86d4f57320746eca049791e0e7f8faed/Wuma-git-3.1.9.apk) 
+[备用地址](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/471/088/original/8c94aac9ab0ffcb39dec33e7aae9f8fc/Wuma-git-3.2.0.apk) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
 网盘下载TpCTB
-[Yandex下载](https://yadi.sk/d/j5K8idx83ULpHn) 
-[EverNote](https://www.evernote.com/shard/s633/sh/aea549ec-d9e9-4ed3-bcd6-69514309c566/97f59401d8bb26c069c78aaae8a91898) 
+[Yandex下载](https://yadi.sk/d/frGj5K8d3UNQER) 
+[EverNote](https://www.evernote.com/shard/s633/sh/06636b97-aae4-40e5-aa4e-85fdc1d81772/c946f0d147d37c3d1b7701d335978ad6) 
 [Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-udqw-cxxrnxji) 
 
 **由于中国大陆的政策因素，无码已关闭所有中国大陆下载渠道，望众知悉**
