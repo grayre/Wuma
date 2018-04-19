@@ -1,11 +1,11 @@
 ## 无码中文版vpn(Wuma)最新版本下载 【下载时务必关闭vpn】
-**🔴 [无码最新版本下载地址请点这里](http://t.cn/RmjzMvP)🔴**
+**🔴 [无码最新版本下载地址请点这里](http://176.122.135.4/new/Wuma-git-3.2.2.apk)🔴**
 
 最新版本是3.2.1
 
 [安卓版(要求5.0以上)](http://176.122.135.4/new/Wuma-git-3.2.2.apk)
 
-[备用地址](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/471/088/original/8c94aac9ab0ffcb39dec33e7aae9f8fc/Wuma-git-3.2.0.apk) 
+[备用地址](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/639/386/original/ef8abb739d45e60937ede2c04b715726/Wuma-git-3.2.2.apk) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
