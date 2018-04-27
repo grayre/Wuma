@@ -10,7 +10,7 @@
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
 网盘下载TpCTB
-[Yandex下载](https://yadi.sk/d/JHzlnZg73UYv3t) 
+[Yandex下载](https://yadi.sk/d/V4kqy44b3UrCkq) 
 [EverNote](https://www.evernote.com/shard/s465/sh/29b9e804-ae2a-4627-af7c-9812ca26d12c/7d37bd1bc9b59ac9778e5124577c648b) 
 [Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-udqw-cxxrnxji) 
 
