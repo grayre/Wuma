@@ -3,9 +3,9 @@
 
 最新版本是3.2.3
 
-[安卓版(要求5.0以上)](http://176.122.135.123/new/Wuma-git-3.2.3.apk)
+[安卓版(要求5.0以上)](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/894/494/original/0092a91604df7ac5eccd2d24f1927aa0/Wuma-git-3.2.3.apk)
 
-[备用地址](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/894/494/original/0092a91604df7ac5eccd2d24f1927aa0/Wuma-git-3.2.3.apk) 
+[备用地址](http://176.122.135.123/new/Wuma-git-3.2.3.apk) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
