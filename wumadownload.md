@@ -5,7 +5,7 @@
 
 [安卓版(要求5.0以上)](http://176.122.135.123/new/Wuma-git-3.2.5.apk) 
 
-[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/025/894/494/original/0092a91604df7ac5eccd2d24f1927aa0/Wuma-git-3.2.3.apk)
+[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/245/366/original/2e0288b93588af6957633e3602ac7998/Wuma-git-3.2.5.apk)
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
