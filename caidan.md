@@ -4,4 +4,4 @@
 * 2.浏览全屏广告几秒》点击广告》在跳转后的页面继续浏览七八秒
 * 3.完成后收到码币彩蛋
 
-![Alt text](https://www.evernote.com/shard/s458/sh/d012349b-dcaa-4a74-889f-8e5dcc85a153/b104406d171edaa2/res/65d80113-1c88-49bb-8e01-e2a445294018/caidan-2.png?resizeSmall&width=832)
+![Caidan Pic](https://www.evernote.com/shard/s458/sh/d012349b-dcaa-4a74-889f-8e5dcc85a153/b104406d171edaa2/res/65d80113-1c88-49bb-8e01-e2a445294018/caidan-2.png?resizeSmall&width=832)
