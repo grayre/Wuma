@@ -4,4 +4,4 @@
 * 2.浏览全屏广告几秒》点击广告》在跳转后的页面继续浏览七八秒
 * 3.完成后收到码币彩蛋
 
-![caidan-2.png](https://i.loli.net/2018/08/16/5b75990d3abe7.png)
+![caidan](https://i.loli.net/2018/08/17/5b766903c4fcf.png)
