@@ -16,7 +16,7 @@
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
 **由于中国大陆的政策因素，无码已关闭所有中国大陆下载渠道，望众知悉**
-> 同时，使用无码vpn必须先仔细阅读用户手册，及遵守中国大陆的法规。
+> 同时，使用无码vpn必须先仔细阅读用户手册，及遵守中国大陆法规。
 
 
 
