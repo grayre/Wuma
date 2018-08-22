@@ -9,7 +9,7 @@
 
 
 其他网盘下载
-[Yandex下载](https://yadi.sk/d/2NEDnPmZ3aHxWi) 
+[Yandex下载](https://yadi.sk/d/EzeEa_Oe3aU94M) 
 [EverNote](https://www.evernote.com/shard/s458/sh/3431cd0e-c5ea-4f9f-9a02-72d2994598ff/7649aebc1f30de98) 
 [Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-udqw-cxxrnxji) 
 
