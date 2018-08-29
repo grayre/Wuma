@@ -3,13 +3,13 @@
 
 [其他下载渠道]
 
-[安卓版(要求5.0以上)](http://176.122.128.57/new/Wuma-git-3.2.7.apk) 
+[安卓版(要求5.0以上)](http://176.122.135.123/new/Wuma-git-3.2.7.apk) 
 
-[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/426/275/original/2c58cb3d8c00b572d6d93ddc185fced0/Wuma-git-3.2.6.apk)
+[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/656/954/original/e3ed0a7a67d4b768fde1fe322792aecc/Wuma-git-3.2.7.apk)
 
 
 其他网盘下载
-[Yandex下载](https://yadi.sk/d/EzeEa_Oe3aU94M) 
+[Yandex下载](https://yadi.sk/d/Kk9ivPIv3afmyk) 
 [EverNote](https://www.evernote.com/shard/s465/sh/da0fd695-a0d4-4f94-ab46-d2830afdc525/0f92538d0f37f37b79b1234a0bb007c2) 
 [Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-udqw-cxxrnxji) 
 
