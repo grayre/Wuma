@@ -20,6 +20,9 @@
 > 同时，使用无码vpn必须先仔细阅读用户手册，及遵守中国大陆法规。
 
 
+
+
 异常回退版本：
 [V3.2.8](http://t.cn/Rs4voj2)
+
 [V3.2.8](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/916/046/original/e3ce000a8e429b6081f5f57fa9e645fe/Wuma-git-3.2.8.apk)
