@@ -19,3 +19,7 @@
 ## 防止版权纠纷和滥用（禁迅雷下载）
 正则表达式
 > (.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+
+## （儿童）色情暴力暗网等
+正则表达式
+> (.?)(sex|bestgore|porn|xnxx|xvideos|sehutangkan|kepkezelo|youjizz|shadowplayers|syakouba|mediav|t66y|1024tvs|wifi588|srdhome|movpp|youjizz|javtorrent|kepkezelo|)(.)（.onion）
