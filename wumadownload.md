@@ -29,3 +29,5 @@
 [V3.2.8](http://t.cn/Rs4voj2)
 
 [V3.2.8](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/916/046/original/e3ce000a8e429b6081f5f57fa9e645fe/Wuma-git-3.2.8.apk)
+
+[V3.2.6](http://t.cn/Eh7uy5M)
