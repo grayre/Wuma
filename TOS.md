@@ -12,7 +12,7 @@
 
 > (^.*\@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168)\.(info|biz|com|de|net|org|me|la)	
 
-## 屏蔽法轮功网站（你懂的）
+## 屏蔽法轮功网站
 正则表达式
 > (.*\.|| )(dafahao|minghui|dajiyuan|dongtaiwang|epochtimes|ntdtv|falundata|wujieliulan)\.(org|com|net)
 
