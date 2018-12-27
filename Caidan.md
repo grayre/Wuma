@@ -7,3 +7,4 @@
 
 
 ![caidan](https://i.loli.net/2018/08/17/5b766903c4fcf.png)
+若广告为软件下载广告，则跳转到google play后浏览几秒即可，不强求下载
