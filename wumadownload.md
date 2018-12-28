@@ -1,19 +1,16 @@
 ## 无码高级版-最新下载 【下载时务必关闭vpn】
-**🔴 [无码最新版本下载地址请点这里](http://t.cn/ELNxPYT)🔴**
+**🔴 [无码最新版本下载地址请点这里](https://www.evernote.com/shard/s465/sh/b514dd5c-2574-42f0-be18-f513e6bd6142/4df931b30bca32798cf48cba14c6a63e/res/f5faf424-1161-424b-a565-1d4e2b4de252/wuma-git-3.3.8_338_jiagu_sign_al.apk)🔴**
 
 
 [其他下载渠道]
 
-[安卓版(要求5.0以上)](http://176.122.135.123/new/wuma-3.3.6-git.apk) 
+[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/033/649/060/original/7659af5529d5e452d84a749fc16803d8/wuma-git-3.3.8.apk)
 
-[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/032/440/144/original/6f344168441b6d89d4e45502d10b7e8d/wuma-git-3.3.5.apk)
-
+[安卓版(要求5.0以上)](http://176.122.135.123/new/wuma-3.3.8-git.apk) 
 
 其他网盘下载
-[Yandex下载](https://yadi.sk/d/hfTp7DYeyp5MOA) 
-[EverNote](https://www.evernote.com/shard/s465/sh/55911b28-c12c-4a1e-81bd-42a8310681c0/2d707022546726f1ccaaed9fed7e9db4) 
-[Sync网盘下载](https://ln.sync.com/dl/9c3f10be0/7ihrejim-xtwzcczk-udqw-cxxrnxji) 
-
+[Yandex下载](https://yadi.sk/d/k6Rl4V_MRcbU7g) 
+[EverNote](https://www.evernote.com/shard/s465/sh/b514dd5c-2574-42f0-be18-f513e6bd6142/4df931b30bca32798cf48cba14c6a63e) 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
 **由于中国大陆的政策因素，无码已关闭所有中国大陆下载渠道，望众知悉**
