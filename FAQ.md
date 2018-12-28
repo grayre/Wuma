@@ -19,7 +19,7 @@
 
 - 点击小飞机按钮就闪退》 请依次逐一尝试，1.换数据，换wifi   2.重启手机  3.通过其他可用的vpn开启全局代理后，再重启一次无码应用 
 
-- 升级后带来的闪退和后台服务启动失败问题》》提供了[旧版回退](https://github.com/mumavpn/Wuma/blob/master/wumadownload.md)
+- 升级后带来的闪退和后台服务启动失败问题》》提供了[兼容包与旧版回退](https://github.com/mumavpn/Wuma/blob/master/wumadownload.md)
 
 - 启动小飞机按钮了，顶部状态栏没有出现代理钥匙。》》因为国产机系统特别定制，不显示钥匙但可以正常使用。
 
