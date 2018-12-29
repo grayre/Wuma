@@ -10,7 +10,7 @@
 
 其他网盘下载
 
-[Yandex下载](https://s359sas.storage.yandex.net/rdisk/002c04bc9254793e69d62a3ce12016771e731339e3cc963cf163cab1688a69c6/5c2606cf/3ypmbugO6r3jAJHXUVWpSEmO-YegaieWtJE_l06H19BhTK1ZM-ofvVXGrnP86PexSaSHhU49WNwJe-EgihQBFA==?uid=0&filename=wuma-git-3.3.8.apk&disposition=attachment&hash=B%2BZ/FFJDhyO%2BR%2By2StG2PwHTtBzZ) 
+[Yandex下载](https://yadi.sk/d/Rzmkw8r4WOO02Q) 
 
 [EverNote](https://www.evernote.com/shard/s465/sh/b514dd5c-2574-42f0-be18-f513e6bd6142/4df931b30bca32798cf48cba14c6a63e) 
 
