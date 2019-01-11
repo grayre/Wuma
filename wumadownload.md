@@ -1,18 +1,18 @@
-## 无码高级版-最新下载 【下载时务必关闭vpn】
-**🔴 [无码最新版本下载地址请点这里](http://t.cn/Ebc93bx)🔴**
+## V3.3.9-Wuma高级版-最新下载 【下载时务必关闭vpn】
+**🔴 [Wuma最新版本下载地址请点这里](http://t.cn/EqGIHiN)🔴**
 
 
 [其他下载渠道]（若使用闪退请划到下方尝试兼容版本）
 
-[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/033/649/060/original/7659af5529d5e452d84a749fc16803d8/wuma-git-3.3.8.apk)
+[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/034/006/126/original/4d007d8ff7fe30e755661cfcff7611df/wuma-git-3.3.9.apk)
 
-[安卓版(要求5.0以上)](http://176.122.135.123/new/wuma-3.3.8-git.apk) 
+[安卓版(要求5.0以上)](http://176.122.135.123/new/wuma-3.3.9-git.apk) 
 
 其他网盘下载
 
-[Yandex下载](https://yadi.sk/d/Rzmkw8r4WOO02Q) 
+[Yandex下载](https://yadi.sk/d/4D-oVtm4FOyqZg) 
 
-[EverNote](https://www.evernote.com/shard/s465/sh/b514dd5c-2574-42f0-be18-f513e6bd6142/4df931b30bca32798cf48cba14c6a63e) 
+[EverNote](https://www.evernote.com/shard/s633/sh/9f23ad71-f51f-4bd5-a7da-2c39424486d7/abd4f23d6a48352af08ee927a9cb408e) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
