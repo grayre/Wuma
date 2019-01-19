@@ -1,5 +1,5 @@
 ## V3.4.1-Wuma高级版-最新下载 【下载时务必关闭vpn】
-**🔴 [Wuma最新版本下载地址请点这里](https://tinyurl.com/yah3kfxw)🔴**
+**🔴 [Wuma最新版本下载地址请点这里](https://reurl.cc/Qb0N9)🔴**
 
 
 [其他下载渠道]
@@ -12,7 +12,7 @@
 
 [Yandex下载](https://yadi.sk/d/nMyTmarWAukGQw) 
 
-[EverNote](https://www.evernote.com/shard/s633/sh/cc394dd2-845a-4cee-8494-feea53d709a2/611ec7253f0e0e630da890e12a0e10b5) 
+[EverNote](https://www.evernote.com/shard/s633/sh/cc394dd2-845a-4cee-8494-feea53d709a2/cb9efa8840dfd9d68f56abd5ba87f819) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
@@ -24,7 +24,7 @@
 
 
 异常兼容版本（兼容一些安卓9.0/MIUI 10）：
-[最新版兼容包](https://content.evernote.com/shard/s633/sh/58b71944-0d9f-4eb1-9b1f-a6ea82bb32ce/247442fe4f0ada8d47d6640045262ff9/res/9002d68c-fad4-4d55-ab2a-860aa1399ade/wuma-3.4.1-l.apk)
+[最新版兼容包](https://www.evernote.com/shard/s633/client/snv?noteGuid=58b71944-0d9f-4eb1-9b1f-a6ea82bb32ce&noteKey=247442fe4f0ada8d47d6640045262ff9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs633%2Fsh%2F58b71944-0d9f-4eb1-9b1f-a6ea82bb32ce%2F247442fe4f0ada8d47d6640045262ff9&title=3.4.1-t)
 
 异常回退版本（不兼容安卓9.0）：
 [V3.2.8](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/916/046/original/e3ce000a8e429b6081f5f57fa9e645fe/Wuma-git-3.2.8.apk)
