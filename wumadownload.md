@@ -2,7 +2,7 @@
 **🔴 [Wuma最新版本下载地址请点这里](https://tinyurl.com/yah3kfxw)🔴**
 
 
-[其他下载渠道]（若使用闪退请划到下方尝试兼容版本）
+[其他下载渠道]
 
 [AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/034/263/184/original/bf46cb1cdc31fe9259df2a6884eaee9f/wuma-3.4.1.apk)
 
