@@ -1,16 +1,16 @@
-## V3.3.9-Wuma高级版-最新下载 【下载时务必关闭vpn】
-**🔴 [Wuma最新版本下载地址请点这里](http://t.cn/EqGIHiN)🔴**
+## V3.4.1-Wuma高级版-最新下载 【下载时务必关闭vpn】
+**🔴 [Wuma最新版本下载地址请点这里](http://HiN)🔴**
 
 
 [其他下载渠道]（若使用闪退请划到下方尝试兼容版本）
 
-[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/034/006/126/original/4d007d8ff7fe30e755661cfcff7611df/wuma-git-3.3.9.apk)
+[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/034/263/184/original/bf46cb1cdc31fe9259df2a6884eaee9f/wuma-3.4.1.apk)
 
-[安卓版(要求5.0以上)](http://176.122.135.123/new/wuma-3.3.9-git.apk) 
+[安卓版(要求5.0以上)](http://176.122.135.123/new/wuma-3.4.1.apk) 
 
 其他网盘下载
 
-[Yandex下载](https://yadi.sk/d/4D-oVtm4FOyqZg) 
+[Yandex下载](https://yadi.sk/d/nMyTmarWAukGQw) 
 
 [EverNote](https://www.evernote.com/shard/s633/sh/9f23ad71-f51f-4bd5-a7da-2c39424486d7/abd4f23d6a48352af08ee927a9cb408e) 
 
